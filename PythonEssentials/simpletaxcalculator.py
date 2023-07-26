@@ -1,4 +1,10 @@
 ﻿''' From: https://edube.org/learn/pe-1/lab-essentials-of-the-if-else-statement-3
+Objectives
+Familiarize the student with:
+
+using the if-else instruction to branch the control path;
+building a complete program that solves simple real-life problems.
+
 Scenario
 Once upon a time there was a land - a land of milk and honey, inhabited by happy and prosperous people. The people paid taxes, of course - their happiness had limits. The most important tax, called the Personal Income Tax (PIT for short) had to be paid once a year, and was evaluated using the following rule:
 
