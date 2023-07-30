@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="46be3280-b692-45c9-be59-fd937f5f6114" name="Changes" comment="Inserção de arquivos.">
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonEssentials/theuglyvoweleater.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonEssentials/theprettyvoweleater.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +20,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": -1
+  "associatedIndex": 7
 }]]></component>
   <component name="ProjectId" id="2SiruPFKtgPu1uMBItpGG4ztNlU" />
   <component name="ProjectViewState">
@@ -50,6 +49,11 @@
         <option name="myUseModuleSdk" value="true" />
       </console-settings>
     </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/PythonEssentials" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.pyramidblocks">
     <configuration name="blockpyramid" type="PythonConfigurationType" factoryName="Python">
@@ -116,6 +120,7 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Python.blockpyramid" />
       <item itemvalue="Python.layersofapyramid" />
       <item itemvalue="Python.pyramidblocks" />
     </list>
